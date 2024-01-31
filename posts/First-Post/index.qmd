@@ -1,0 +1,18 @@
+---
+title: "Test Post"
+author: "Jax Lubkowitz"
+date: "2024-01-31"
+categories: [Test]
+---
+
+Here is a new test post. 
+```{r}
+#| warning: false
+
+library(palmerpenguins)
+library(tidyverse)
+
+ggplot(data = penguins, aes(x = bill_length_mm))+
+  geom_histogram(color = "black", fill = "white")
+```
+

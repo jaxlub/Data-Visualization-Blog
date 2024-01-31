@@ -1,0 +1,14 @@
+---
+title: "Post With Code"
+author: "Jax Lubkowitz"
+date: "2024-01-31"
+categories: [news, code, fortnite]
+image: "image.jpg"
+---
+
+This is a blog post
+
+```{r}
+# here is a code chunk with a comment
+1 + 1
+```
