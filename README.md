@@ -1,2 +1,2 @@
-
-[Website](https://jaxlub.github.io/Data-Visualization-Blog/)
+Welcome to my Blog!
+This blog is a project from St. Lawrence University's Data Visualization class to explore real data sets and use visuals to draw meaningful conclusions. As I am a Bio/CS I will be exploring topics that relate to biologcal systems or have implications for human health. I hope you enjoy the [Website](https://jaxlub.github.io/Data-Visualization-Blog/)!

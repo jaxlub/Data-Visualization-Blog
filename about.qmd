@@ -4,16 +4,12 @@ image: profile.jpg
 about:
   template: jolla
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/james-lubkowitz/
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/jaxlub
 
 ---
-
-About this blog
+This is a blog by Jax Lubkowitz on various topics in St. Lawrence University's Data Visualization class taught by Matt Higham. The goal of this blog is to investigate and explore real data sets and build visuals to draw meaningful conclusions from them. Jax is a biology and computer science major who is interested in learning data science skills to implement in biological and computational aspects of his work. With this in mind most data sets revolve around public health and biological systems.  
