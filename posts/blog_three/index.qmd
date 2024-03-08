@@ -5,7 +5,7 @@ date: "2024-03-08"
 categories: [Cancer, Public Health]
 ---
 
-Cancer impacts the lives of millions of people around the world. Effective identification of cancerous malignant tumors is critical for quick treatment response to improve outcomes. Non-cancerous benign tumors do not pose the same threats that malignant tumors do. With this in mind we will look at how points (a tumor scoring system) and tumor texture can be used to identify tumor types. Taking this one step further we are going to investigate how a model could classify different points and visual this in a clear and concise way. 
+Cancer impacts the lives of millions of people around the world. Effective identification of cancerous malignant tumors is critical for quick treatment response to improve outcomes. Non-cancerous benign tumors do not pose the same threats that malignant tumors do. With this in mind we will look at how points (a tumor scoring system) and tumor texture can be used to identify tumor types. Taking this one step further we are going to investigate how a model could classify different points and visualize this in a clear and concise way. 
 
 This data set comes from Lisa Torrey's Machine Learning Class. 
 ```{r}
